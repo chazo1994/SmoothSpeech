@@ -1,0 +1,4 @@
+[ 33%] Building CXX object CMakeFiles/SmoothSpeech.dir/source/Wave.cpp.o
+CMakeFiles/SmoothSpeech.dir/build.make:86: recipe for target 'CMakeFiles/SmoothSpeech.dir/source/Wave.cpp.o' failed
+CMakeFiles/Makefile2:67: recipe for target 'CMakeFiles/SmoothSpeech.dir/all' failed
+Makefile:83: recipe for target 'all' failed

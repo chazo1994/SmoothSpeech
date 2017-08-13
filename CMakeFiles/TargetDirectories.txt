@@ -1,0 +1,3 @@
+/home/thinh/Desktop/MyProject/SmoothSpeech/CMakeFiles/edit_cache.dir
+/home/thinh/Desktop/MyProject/SmoothSpeech/CMakeFiles/rebuild_cache.dir
+/home/thinh/Desktop/MyProject/SmoothSpeech/CMakeFiles/SmoothSpeech.dir

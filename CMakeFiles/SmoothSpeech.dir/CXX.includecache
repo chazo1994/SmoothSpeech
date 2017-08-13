@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/thinh/Desktop/MyProject/SmoothSpeech/source/SmoothSpeech.cpp
+SmoothSpeech.h
+/home/thinh/Desktop/MyProject/SmoothSpeech/source/SmoothSpeech.h
+
+/home/thinh/Desktop/MyProject/SmoothSpeech/source/Wave.cpp
+Wave.h
+/home/thinh/Desktop/MyProject/SmoothSpeech/source/Wave.h
+
+header/SmoothSpeech.h
+iostream
+-
+Wave.h
+header/Wave.h
+
+header/Wave.h
+iostream
+-
+fstream
+-
+vector
+-
+stdlib.h
+-
+
